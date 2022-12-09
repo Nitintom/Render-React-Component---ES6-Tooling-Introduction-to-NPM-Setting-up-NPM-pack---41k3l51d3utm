@@ -1,11 +1,9 @@
 import '../styles/App.css';
-import PContainer from './PContainer';
+
 
 const App = () => {
   return (
-    <div id="main">
-      <PContainer />
-    </div>
+    <p>I am learning React. My life is getting better.</p>
   )
 }
 
