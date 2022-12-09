@@ -4,7 +4,7 @@ import PContainer from './PContainer';
 const App = () => {
   return (
     <div id="main">
-      <PContainer/>
+      <PContainer />
     </div>
   )
 }
